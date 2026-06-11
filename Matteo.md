@@ -1,6 +1,6 @@
-# Hola, soy Mateo   <img width="50" src="[URL_JS](https://cdn-icons-png.flaticon.com/512/1157/1157109.png)" alt="icon"/>
+# Hola, soy Mateo
 
-Soy estudiante de Análisis y Desarrollo de Software. Tengo conocimientos básicos en HTML, CSS, React, JavaScript Bootstrap y Node.js. He trabajado con estas tecnologías anteriormente, aunque actualmente estoy repasando y fortaleciendo mis conocimientos para mejorar mi dominio y seguir aprendiendo desarrollo web.
+Soy estudiante de Análisis y Desarrollo de Software. Tengo conocimientos básicos en HTML, CSS, React, JavaScript Bootstrap y Node.js. He trabajado con estas tecnologías anteriormente, aunque actualmente estoy repasando y fortaleciendo mis conocimientos para mejorar  y seguir aprendiendo.
 
 ## Tecnologías
 - HTML <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
